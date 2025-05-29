@@ -56,8 +56,7 @@ The dataset contains the following key features:
 ---
 
 ## 📁 Project Structure
-heart-disease-prediction/
-│
+heart-disease-prediction
 ├── heart-disease.csv # Dataset file
 ├── heart_disease_prediction.py # Main Python script with model training and evaluation
 ├── README.md # Project overview and instructions
