@@ -1,5 +1,3 @@
-# Heart-disease-prediction
-Machine learning project for predicting heart disease using the UCI dataset
 # Heart Disease Prediction Using Machine Learning
 
 This project implements a machine learning model to predict the presence of heart disease based on patient medical data. The model helps classify whether a patient is likely to have heart disease or not using features like age, cholesterol, blood pressure, and more.
