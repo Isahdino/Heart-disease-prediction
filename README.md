@@ -85,10 +85,10 @@ heart-disease-prediction
 ---
 
 # 3. requirements.txt (for dependencies)
-pandas
-numpy
-matplotlib
-seaborn
+pandas,
+numpy,
+matplotlib,
+seaborn,
 scikit-learn
 
 ## 📬 Contact
