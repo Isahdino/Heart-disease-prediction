@@ -91,6 +91,12 @@ matplotlib,
 seaborn,
 scikit-learn
 
+#  Contributing
+Contributions and suggestions are welcome! Feel free to open an issue or submit a pull request.
+
 ## 📬 Contact
 Created by **Isah Yusuf Dino**  
 Email: isahdino85@gmail.com 
+
+# ⚠️ Disclaimer
+This project is for educational purposes only and is not intended for clinical use. Always consult medical professionals for diagnosis and treatment.
